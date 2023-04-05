@@ -1,1 +1,1 @@
-# yolo7-constuction-dafety-detection
+# yolo7-constuction-safety-detection
